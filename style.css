@@ -790,19 +790,7 @@ dialog p {
   dialog span {
     display: none;
   }
-
-  dialog h3 {
-    font-size: 16px;
-  }
-
-  dialog p {
-    font-size: 12px;
-  }
-
-  dialog ul {
-    font-size: 12px;
-  }
-
+  
   .redirect-button {
     display: inline-block;
     border: 2px solid #0d0d0d;
