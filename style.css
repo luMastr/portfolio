@@ -861,6 +861,11 @@ dialog p {
     font-size: 16px;
   }
 
+  .project-info h2 {
+    padding-top: 0.5rem;
+    padding-bottom: 6rem;
+  }
+
   footer {
     height: 32vh;
   }
